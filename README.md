@@ -2,7 +2,7 @@
 video used : Concreting
 
 I'm going with background subtraction which only focuses on foreground, and using this I thought it could be one of the methods to track the progress of construction. 
-please use the videos in the data folder to check the results of my code. i have also posted the photos of first frames and also of a a frame after few seconds where the results are properlyy visible 
+please use the video uploaded and change the path accordingly to check the results of my code. i have also posted the photos of first frames and also of a a frame after few seconds where the results are properlyy visible 
  ## image 1 : This image represents the first frame
 
 ![Frame_1](https://user-images.githubusercontent.com/58388399/143607728-4b9d2861-3066-4cb1-9429-701d6f08dc1b.png)
